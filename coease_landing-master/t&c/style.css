@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+		
+* {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%; }
+ body {
+	background-color: #f4f4f4;
+	font-weight: normal;
+	font-style: normal; }
+div {
+	width: 50%;
+		max-width: 800px;
+	min-width: 200px;
+	margin: 50px auto; }
+h1 {
+	font-family: 'Noto Sans', serif;
+	color: #333; }
+p {
+	font-family: 'Noto Sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+	color: #666; }
+a:link, a:visited {
+		color: #666;
+		text-decoration: underline; }
+a:hover {
+		color: #01c59f; }

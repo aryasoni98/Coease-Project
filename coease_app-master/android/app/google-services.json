@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313582424569",
+    "firebase_url": "https://coease-10a3c.firebaseio.com",
+    "project_id": "coease-10a3c",
+    "storage_bucket": "coease-10a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313582424569:android:918d0212ed08b70182ad28",
+        "android_client_info": {
+          "package_name": "coease.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313582424569-dmi40s4v0qchpnmab5tag9pjajqnu7dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coease.covid",
+            "certificate_hash": "ea27b411e448e138cf3c8db787fbd7736d6e8c2a"
+          }
+        },
+        {
+          "client_id": "313582424569-lahdnimrja1chk1namttcmab4jvd13mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszjXG2P03h5bkMd9dhYPWsNnHqvfEGi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313582424569-lahdnimrja1chk1namttcmab4jvd13mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
